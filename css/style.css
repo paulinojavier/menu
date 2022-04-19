@@ -33,7 +33,7 @@ body{
 }
 
 .nav__item{
-    color:#fff;
+    color:#000;
     text-decoration: none;
     --clippy: polygon(0 0, 0 0, 0 100%, 0% 100%);
 }
@@ -41,7 +41,7 @@ body{
 .nav__item:after{
     content: "";
     display: block;
-    background: #fff;
+    background: #000;
     width: 90%;
     margin-top: 3px;
     height: 3px;
